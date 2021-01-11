@@ -12,8 +12,6 @@ class ViewController: UIViewController {
     @IBOutlet weak var userName: UITextField!
     @IBOutlet weak var passWord: UITextField!
     let encryptionKEY = "$3N2@C7@pXp"
-    let loginUsername = "3000100"
-    let loginPassword = "sF52bx24v~h^s-Y+3000100"
 
     override func viewDidLoad() {
         super.viewDidLoad()

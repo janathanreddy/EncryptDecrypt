@@ -17,6 +17,7 @@
 		21D86D5425AC85720092BE73 /* Encrypt_DecryptTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21D86D5325AC85720092BE73 /* Encrypt_DecryptTests.swift */; };
 		21D86D5F25AC85720092BE73 /* Encrypt_DecryptUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21D86D5E25AC85720092BE73 /* Encrypt_DecryptUITests.swift */; };
 		21D86D8325AC8CC80092BE73 /* ParalleleffectViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21D86D8225AC8CC80092BE73 /* ParalleleffectViewController.swift */; };
+		21D86D8825AC9DB20092BE73 /* StrachyImageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21D86D8725AC9DB20092BE73 /* StrachyImageViewController.swift */; };
 		977A4ADB7F3F11E5AFF96637 /* Pods_EncryptDecrypt_EncryptDecryptUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F5A8B3C6FA33F2C5AFCFE5EB /* Pods_EncryptDecrypt_EncryptDecryptUITests.framework */; };
 		C5A6007F56C188E29D679248 /* Pods_EncryptDecrypt.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7992805AFF8E48990195832A /* Pods_EncryptDecrypt.framework */; };
 /* End PBXBuildFile section */
@@ -54,6 +55,7 @@
 		21D86D5E25AC85720092BE73 /* Encrypt_DecryptUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Encrypt_DecryptUITests.swift; sourceTree = "<group>"; };
 		21D86D6025AC85720092BE73 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		21D86D8225AC8CC80092BE73 /* ParalleleffectViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParalleleffectViewController.swift; sourceTree = "<group>"; };
+		21D86D8725AC9DB20092BE73 /* StrachyImageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StrachyImageViewController.swift; sourceTree = "<group>"; };
 		2BD04DE68CED6C0BABBE5476 /* Pods-EncryptDecrypt.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EncryptDecrypt.debug.xcconfig"; path = "Target Support Files/Pods-EncryptDecrypt/Pods-EncryptDecrypt.debug.xcconfig"; sourceTree = "<group>"; };
 		479CC389C7AC11DBC29436E1 /* Pods-EncryptDecrypt.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EncryptDecrypt.release.xcconfig"; path = "Target Support Files/Pods-EncryptDecrypt/Pods-EncryptDecrypt.release.xcconfig"; sourceTree = "<group>"; };
 		7992805AFF8E48990195832A /* Pods_EncryptDecrypt.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_EncryptDecrypt.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -126,6 +128,7 @@
 				21D86D4725AC85720092BE73 /* LaunchScreen.storyboard */,
 				21D86D4A25AC85720092BE73 /* Info.plist */,
 				21D86D8225AC8CC80092BE73 /* ParalleleffectViewController.swift */,
+				21D86D8725AC9DB20092BE73 /* StrachyImageViewController.swift */,
 			);
 			path = "Encrypt&Decrypt";
 			sourceTree = "<group>";
@@ -409,6 +412,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				21D86D8825AC9DB20092BE73 /* StrachyImageViewController.swift in Sources */,
 				21D86D4125AC856D0092BE73 /* ViewController.swift in Sources */,
 				21D86D3D25AC856D0092BE73 /* AppDelegate.swift in Sources */,
 				21D86D8325AC8CC80092BE73 /* ParalleleffectViewController.swift in Sources */,
